@@ -1992,24 +1992,74 @@ Row4
 Connection ~ 5700 6450
 Connection ~ 4200 6450
 Wire Wire Line
-	5700 5750 4200 5750
+	5700 5750 5600 5750
 Connection ~ 5700 5750
 Connection ~ 4200 5750
 Wire Wire Line
 	5000 5950 5000 4550
 Connection ~ 5000 4550
-Wire Wire Line
-	5500 5950 5500 4550
-Connection ~ 5500 4550
 $Comp
 L Device:Rotary_Encoder_Switch SW?
 U 1 1 6214EE47
-P 7550 1650
-F 0 "SW?" H 7550 2017 50  0000 C CNN
-F 1 "Rotary_Encoder_Switch" H 7550 1926 50  0000 C CNN
-F 2 "" H 7400 1810 50  0001 C CNN
-F 3 "~" H 7550 1910 50  0001 C CNN
-	1    7550 1650
+P 5150 5450
+F 0 "SW?" H 5150 5817 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 5150 5726 50  0000 C CNN
+F 2 "" H 5000 5610 50  0001 C CNN
+F 3 "~" H 5150 5710 50  0001 C CNN
+	1    5150 5450
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	5500 5950 5500 5350
+Wire Wire Line
+	5500 5350 5450 5350
+Wire Wire Line
+	5500 5350 5500 4550
+Connection ~ 5500 5350
+Connection ~ 5500 4550
+$Comp
+L Diode:1N4148 D73(Encoder)
+U 1 1 6218BDEF
+P 5600 5550
+F 0 "D73(Encoder)" V 5646 5470 50  0000 R CNN
+F 1 "1N4148" V 5555 5470 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5600 5375 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5600 5550 50  0001 C CNN
+	1    5600 5550
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5450 5550 5450 5400
+Wire Wire Line
+	5450 5400 5600 5400
+Wire Wire Line
+	5600 5700 5600 5750
+Connection ~ 5600 5750
+Wire Wire Line
+	5600 5750 4200 5750
+$Comp
+L power:GND #PWR?
+U 1 1 621C76ED
+P 4750 5450
+F 0 "#PWR?" H 4750 5200 50  0001 C CNN
+F 1 "GND" V 4755 5322 50  0000 R CNN
+F 2 "" H 4750 5450 50  0001 C CNN
+F 3 "" H 4750 5450 50  0001 C CNN
+	1    4750 5450
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4850 5450 4750 5450
+Text GLabel 4600 1250 0    50   Input ~ 0
+Enc0
+Text GLabel 4600 1350 0    50   Input ~ 0
+Enc1
+Text GLabel 4750 5350 0    50   Input ~ 0
+Enc0
+Text GLabel 4750 5550 0    50   Input ~ 0
+Enc1
+Wire Wire Line
+	4850 5350 4750 5350
+Wire Wire Line
+	4850 5550 4750 5550
 $EndSCHEMATC

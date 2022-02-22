@@ -2001,4 +2001,15 @@ Connection ~ 5000 4550
 Wire Wire Line
 	5500 5950 5500 4550
 Connection ~ 5500 4550
+$Comp
+L Device:Rotary_Encoder_Switch SW?
+U 1 1 6214EE47
+P 7550 1650
+F 0 "SW?" H 7550 2017 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 7550 1926 50  0000 C CNN
+F 2 "" H 7400 1810 50  0001 C CNN
+F 3 "~" H 7550 1910 50  0001 C CNN
+	1    7550 1650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
