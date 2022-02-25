@@ -59,7 +59,7 @@
     (pad_drill 0.762)
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
-    (visible_elements 7FFFFFFF)
+    (visible_elements 7FFFF7FF)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -291,7 +291,7 @@
   )
 
   (module Keebio-Parts:Elite-C-castellated-29pin-holes (layer F.Cu) (tedit 5E2C9FAC) (tstamp 6214A5AF)
-    (at 38.11275 84.461749)
+    (at 66.675 -12.7)
     (path /61F5F75D)
     (fp_text reference U1 (at 0 1.625) (layer F.SilkS) hide
       (effects (font (size 1.2 1.2) (thickness 0.2032)))
@@ -686,7 +686,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5210) (tstamp 6214A4F3)
-    (at 30.69 155.99875)
+    (at 272.25625 98.425)
     (path /622EF395)
     (fp_text reference MX-134 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -720,7 +720,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.75U-NoLED (layer F.Cu) (tedit 5A9F5220) (tstamp 6214A4DC)
-    (at -19.05 39.6875)
+    (at 277.01875 79.375)
     (path /622E6546)
     (fp_text reference MX-133 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -754,7 +754,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-2.25U-NoLED (layer F.Cu) (tedit 5A9F5245) (tstamp 6214A4C5)
-    (at -5.55625 80.9625)
+    (at 281.78125 60.325)
     (path /622C7A96)
     (fp_text reference MX-132 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -864,7 +864,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6214A478)
-    (at 154.26875 162.55875)
+    (at 250.825 79.375)
     (path /622E6539)
     (fp_text reference MX-123 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -898,7 +898,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6214A461)
-    (at 73.46875 132.31875)
+    (at 250.825 60.325)
     (path /622C7A89)
     (fp_text reference MX-122 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1000,7 +1000,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6214A41C)
-    (at 148.43125 -0.79375)
+    (at 231.775 79.375)
     (path /622E652C)
     (fp_text reference MX-113 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1034,7 +1034,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6214A405)
-    (at 231.775 -2.38125)
+    (at 231.775 60.325)
     (path /622C7A7C)
     (fp_text reference MX-112 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1136,7 +1136,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5210) (tstamp 6214A3C0)
-    (at 50.89 126.27875)
+    (at 203.2 101.6)
     (path /622F1ED2)
     (fp_text reference MX-104 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1170,7 +1170,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6214A3A9)
-    (at 131.56875 81.75875)
+    (at 212.725 79.375)
     (path /622E651F)
     (fp_text reference MX-103 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1204,7 +1204,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6214A392)
-    (at 73.46875 152.51875)
+    (at 212.725 60.325)
     (path /622C7A6F)
     (fp_text reference MX-102 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1306,7 +1306,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5210) (tstamp 6214A34D)
-    (at -15.08125 60.325)
+    (at 203.2 120.65)
     (path /622F42E2)
     (fp_text reference MX-94 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1340,7 +1340,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6214A336)
-    (at 131.56875 101.95875)
+    (at 193.675 79.375)
     (path /622E6512)
     (fp_text reference MX-93 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1476,7 +1476,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.5U-Vertical (layer F.Cu) (tedit 5B8AC584) (tstamp 6214A2DA)
-    (at 66.20875 87.80125)
+    (at 181.76875 111.125)
     (path /622F6D87)
     (fp_text reference MX-84 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1512,7 +1512,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6214A2C1)
-    (at 201.6125 -0.79375)
+    (at 174.625 79.375)
     (path /622E6505)
     (fp_text reference MX-83 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1648,7 +1648,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.5U-Vertical (layer F.Cu) (tedit 5B8AC584) (tstamp 6214A265)
-    (at 86.40875 87.16125)
+    (at 162.71875 106.3625)
     (path /622E64F8)
     (fp_text reference MX-74 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1786,7 +1786,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.5U-Vertical (layer F.Cu) (tedit 5B8AC584) (tstamp 6214A207)
-    (at -40.48125 69.05625)
+    (at 130.175 106.3625)
     (path /622E64EB)
     (fp_text reference MX-64 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1924,7 +1924,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.5U-Vertical (layer F.Cu) (tedit 5B8AC584) (tstamp 6214A1A9)
-    (at 28.30875 131.04125)
+    (at 111.125 111.125)
     (path /622FF0C0)
     (fp_text reference MX-54 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1960,7 +1960,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6214A190)
-    (at 212.36875 81.75875)
+    (at 117.475 79.375)
     (path /622E64DE)
     (fp_text reference MX-53 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2096,7 +2096,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5210) (tstamp 6214A134)
-    (at 122.2375 -0.79375)
+    (at 89.69375 120.65)
     (path /62302103)
     (fp_text reference MX-44 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2130,7 +2130,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6214A11D)
-    (at 154.26875 122.15875)
+    (at 98.425 79.375)
     (path /622E64D1)
     (fp_text reference MX-43 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2266,7 +2266,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5210) (tstamp 6214A0C1)
-    (at 88.79 112.11875)
+    (at 89.69375 101.6)
     (path /623058C4)
     (fp_text reference MX-34 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2300,7 +2300,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6214A0AA)
-    (at 192.16875 101.95875)
+    (at 79.375 79.375)
     (path /622E64C4)
     (fp_text reference MX-33 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2436,7 +2436,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 6214A04E)
-    (at 214.86875 122.15875)
+    (at 60.325 79.375)
     (path /622E64B7)
     (fp_text reference MX-23 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2572,7 +2572,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 62149FF2)
-    (at 252.76875 81.75875)
+    (at 41.275 79.375)
     (path /622E64AA)
     (fp_text reference MX-13 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2708,7 +2708,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5210) (tstamp 62149F96)
-    (at 108.99 91.91875)
+    (at 19.84375 98.425)
     (path /622EC3D6)
     (fp_text reference MX-4 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2742,7 +2742,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-2.25U-NoLED (layer F.Cu) (tedit 5A9F5245) (tstamp 62149F7F)
-    (at 0.79375 -3.96875)
+    (at 10.31875 79.375)
     (path /622E649D)
     (fp_text reference MX-3 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5267,7 +5267,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 621499AC)
-    (at 264.44375 73.43375)
+    (at 293.8125 13.10875)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /62295E2C)
@@ -6009,7 +6009,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 621497FA)
-    (at 275.21375 73.43375)
+    (at 304.5825 13.10875)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /622594B5)
@@ -6062,7 +6062,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 621497DB)
-    (at 264.44375 76.98375)
+    (at 293.8125 16.65875)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /622EC3DC)
@@ -6115,7 +6115,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 621497BC)
-    (at 264.44375 80.53375)
+    (at 293.8125 20.20875)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /622E64A3)
@@ -6168,7 +6168,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 6214979D)
-    (at 264.44375 84.08375)
+    (at 293.8125 23.75875)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /622C79F3)
