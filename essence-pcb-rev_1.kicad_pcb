@@ -292,7 +292,7 @@
   )
 
   (module Keebio-Parts:Elite-C-castellated-29pin-holes (layer F.Cu) (tedit 5E2C9FAC) (tstamp 6214A5AF)
-    (at 150.01875 -30.1625 270)
+    (at 214.3125 49.2125 270)
     (path /61F5F75D)
     (fp_text reference U1 (at 0 1.625 90) (layer F.SilkS) hide
       (effects (font (size 1.2 1.2) (thickness 0.2032)))
