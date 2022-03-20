@@ -1951,43 +1951,43 @@ Text GLabel 1450 5750 0    50   Input ~ 0
 Row3
 Text GLabel 1450 6450 0    50   Input ~ 0
 Row4
-Text GLabel 4600 1450 0    50   Input ~ 0
+Text GLabel 4600 1250 0    50   Input ~ 0
 Col0
-Text GLabel 4600 1550 0    50   Input ~ 0
+Text GLabel 4600 1350 0    50   Input ~ 0
 Col1
-Text GLabel 4600 1650 0    50   Input ~ 0
+Text GLabel 4600 1450 0    50   Input ~ 0
 Col2
-Text GLabel 4600 1750 0    50   Input ~ 0
+Text GLabel 4600 1550 0    50   Input ~ 0
 Col3
-Text GLabel 4600 1850 0    50   Input ~ 0
+Text GLabel 4600 1650 0    50   Input ~ 0
 Col4
-Text GLabel 4600 1950 0    50   Input ~ 0
+Text GLabel 4600 1750 0    50   Input ~ 0
 Col5
-Text GLabel 6000 1250 2    50   Input ~ 0
+Text GLabel 4600 1850 0    50   Input ~ 0
 Col6
-Text GLabel 6000 1350 2    50   Input ~ 0
-Col7
-Text GLabel 6000 1450 2    50   Input ~ 0
-Col8
-Text GLabel 6000 1550 2    50   Input ~ 0
-Col9
-Text GLabel 6000 1950 2    50   Input ~ 0
-Col13
 Text GLabel 6000 1850 2    50   Input ~ 0
-Col12
+Col7
 Text GLabel 6000 1750 2    50   Input ~ 0
-Col11
+Col8
 Text GLabel 6000 1650 2    50   Input ~ 0
+Col9
+Text GLabel 6000 1250 2    50   Input ~ 0
+Col13
+Text GLabel 6000 1350 2    50   Input ~ 0
+Col12
+Text GLabel 6000 1450 2    50   Input ~ 0
+Col11
+Text GLabel 6000 1550 2    50   Input ~ 0
 Col10
-Text GLabel 5500 2350 3    50   Input ~ 0
+Text GLabel 4600 1950 0    50   Input ~ 0
 Row0
-Text GLabel 5400 2350 3    50   Input ~ 0
-Row1
-Text GLabel 5300 2350 3    50   Input ~ 0
-Row2
-Text GLabel 5200 2350 3    50   Input ~ 0
-Row3
 Text GLabel 5100 2350 3    50   Input ~ 0
+Row1
+Text GLabel 5200 2350 3    50   Input ~ 0
+Row2
+Text GLabel 5300 2350 3    50   Input ~ 0
+Row3
+Text GLabel 5400 2350 3    50   Input ~ 0
 Row4
 Connection ~ 5700 6450
 Connection ~ 4200 6450
@@ -2050,9 +2050,9 @@ F 3 "" H 4750 5450 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	4850 5450 4750 5450
-Text GLabel 4600 1250 0    50   Input ~ 0
+Text GLabel 6000 1950 2    50   Input ~ 0
 Enc0
-Text GLabel 4600 1350 0    50   Input ~ 0
+Text GLabel 5500 2350 3    50   Input ~ 0
 Enc1
 Text GLabel 4750 5350 0    50   Input ~ 0
 Enc0
