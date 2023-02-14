@@ -1,5 +1,51 @@
-# stergo
+# Essence
 Ergonomic keyboard with standard ANSI Keycaps
+
+Specifications:
+64 Key Ergo-Linear keyboard, with customizable rotary encoder
+
+Designed for/powered by the Elite-C Microcontroller board
+
+Parts List:
+
+1 - PCB (Gerber located within this Repository)
+
+1 - Elite-C Microcontroller board: [Found Here](https://keeb.io/collections/diy-parts/products/elite-c-low-profile-version-usb-c-pro-micro-replacement-atmega32u4)
+
+1 - Push switch Rotary Encoder
+
+1 - Rotary Encoder knob
+
+65 - 1N4148 Diodes (64 for switches, 1 for Encoder switch)
+
+64 - MX style mechanical keyboard switches
+
+64 - MX style keycaps. Specifically:
+
+    48 - 1u keycaps
+    
+    6 - 1.25u keycaps
+    
+    5 - 1.5u keycaps
+    
+    2 - 1.75u keycaps
+    
+    1 - 2u keycap
+    
+    2 - 2.25u keycaps
+    
+3 - 2u MX style key stabilizers
+
+1 - USB-C cable
+
+
+Also recommended (not technically necessary for keyboard operation):
+
+1 - Switch plate (example provided within this Repository)
+
+1 - Case
+
+Explanation and Inspiration:
 
 Originally just a random past time, this project turned into the Senior Project for my High School graduation, and an exploration
 of the concepts of PCB design and ergonomics.
